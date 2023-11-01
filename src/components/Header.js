@@ -8,7 +8,7 @@ function Header({ isDarkMode, onDarkModeClick }) {
         {isDarkMode ? "Dark" : "Light"} Mode
       </button>
     </header>
-  );
+  );  
 }
 
 export default Header;
